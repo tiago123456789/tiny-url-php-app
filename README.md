@@ -20,6 +20,6 @@ The project generate tiny url for url, main goal here is play to PHP + LARAVEL a
 ```
 - Execute command **touch database/database.sqlite** 
 - Execute command **php artisan migrate** to run migrations.
-- Execute command **php artisan serve** to start the laravel application.
 - Execute command **php artisan optimize** to cache routes and configs.
+- Execute command **php artisan serve** to start the laravel application.
 - Execute command **php artisan octane:start** to start the laravel application using octane.
