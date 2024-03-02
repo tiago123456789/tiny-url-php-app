@@ -6,6 +6,7 @@ The project generate tiny url for url, main goal here is play to PHP + LARAVEL a
 
 - PHP 8.0
 - Laravel 9
+- Sqlite
 
 ## Instructions to run locally
 
